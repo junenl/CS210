@@ -8,8 +8,6 @@ package com.mycompany.helloworld;
 /**
  *
  * @author elian
- * Test commit 1.
- * Test commit 2.
  */
 public class HelloWorld {
 

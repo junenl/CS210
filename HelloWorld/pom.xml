@@ -11,4 +11,5 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>com.mycompany.helloworld.HelloWorld</exec.mainClass>
     </properties>
+    <name>HelloWorld2</name>
 </project>

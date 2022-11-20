@@ -10,6 +10,7 @@
 // Change from LG.
 // Change from yoga.
 // Change from hp.
+// Change from lg.
 
 package com.mycompany.helloworld;
 
